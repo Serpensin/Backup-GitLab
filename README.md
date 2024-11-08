@@ -1,0 +1,1 @@
+This is simply used to create and download a full backup of a GitLab instance.
