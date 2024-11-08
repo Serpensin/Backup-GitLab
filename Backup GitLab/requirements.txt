@@ -1,0 +1,9 @@
+bcrypt
+cffi
+cryptography
+paramiko
+pip
+pycparser
+PyNaCl
+scp
+setuptools
